@@ -117,10 +117,5 @@ public class Advent13{
 
         System.out.println("Visible dots after first fold instruction: " + VisibleDots);
 
-
-
-
-        //Advent13 temp=inputL.get(0);
-        //System.out.println(temp.getX());
     }
 }
